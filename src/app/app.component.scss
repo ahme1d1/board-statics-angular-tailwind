@@ -1,0 +1,13 @@
+.card {
+  @apply bg-bg-card dark:bg-darkbg-card rounded text-center py-6 relative overflow-hidden
+  before:w-full before:absolute before:h-1 before:content-[''] before:top-0
+  before:left-0
+}
+
+.small-card {
+  @apply bg-bg-card rounded p-6 dark:bg-darkbg-card
+}
+
+#toggle:checked + label > span:first-child {
+  @apply left-[22px];
+}
