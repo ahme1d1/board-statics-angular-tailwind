@@ -1,4 +1,4 @@
-# AngularTailwind
+# baord Statics With Angular And Tailwind
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.1.
 
